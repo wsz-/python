@@ -1,0 +1,2 @@
+(defun hello () "hello")
+(defun hi (s) (list s "sb"))
